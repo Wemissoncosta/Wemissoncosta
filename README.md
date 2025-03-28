@@ -1,9 +1,23 @@
 👋 Olá, sou Wemisson Costa.
+
 - 👀 Estou interessado em aprender a programar.
-- 🌱 Atualmente estou aprendendo Java.
+- 🌱 Java básico.
+- 🌱 MySQL básico nv1.
+- 🌱 c+ básico.
 - 💞️ Estou no inicio de tudo praticamente.
-<!--- 📫 Como entrar em contato comigo...--->
 - ⚡ Curiosidade: em tudo relacionado a programação.
+
+- Aprendendo atualmente...
+
+- 🌱 PHP básico.
+- 🌱 HTML básico.
+- 🌱 MySQL básico nv2.
+
+- 📫 Como entrar em contato comigo...-
+
+insta: @wemisson_andrade
+E-mail: wemissonandrade21@gmail.com
+
 
 
 <!---
