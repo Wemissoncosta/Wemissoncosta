@@ -1,10 +1,10 @@
 👋 Olá, sou Wemisson Costa.
 
-- 👀 Estou interessado em aprender a programar.
+- 🌱 Cursando Análise e desenvolvimento de sistemas (ADS) - Institudo Federal do Tocantins (IFTO).
+- 🌱 Periodo 4/6.
 - 🌱 Java básico.
 - 🌱 MySQL básico nv1.
 - 🌱 c+ básico.
-- 💞️ Estou no inicio de tudo praticamente.
 - ⚡ Curiosidade: em tudo relacionado a programação.
 
 - Aprendendo atualmente...
@@ -16,7 +16,7 @@
 - 📫 Como entrar em contato comigo...-
 
 insta: @wemisson_andrade
-E-mail: wemissonandrade21@gmail.com
+E-mail: wemisson.costa@estudante.ifto.edu.br
 
 
 
