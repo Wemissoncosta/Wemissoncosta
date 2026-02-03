@@ -1,7 +1,7 @@
 👋 Olá, sou Wemisson Costa.
 
 - 🌱 Cursando Análise e desenvolvimento de sistemas (ADS) - Institudo Federal do Tocantins (IFTO).
-- 🌱 Periodo 4/6.
+- 🌱 Periodo 6/6.
 - 🌱 Java básico.
 - 🌱 MySQL básico nv1.
 - 🌱 c+ básico.
